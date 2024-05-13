@@ -1,0 +1,22 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(lightgrey);
+}
+header {
+    background:white;
+inline-size: auto;
+    padding: 2px 0 0 20px;
+    text-align: center;
+    border:1px solid;
+}
+
+h2 {
+    font-size:1em;
+    font-weight: bold;
+    margin: 50px 0 0  0 ;
+}
+
+footer {
+    background: lightblue;
+    inline-size: auto;
+}
